@@ -8,7 +8,7 @@ The dashboard is designed to help users explore how sales are distributed across
 
 > **Dashboard Preview:**
 >
-> ![Coca-Cola USA Retailer Sales Dashboard](Excel_CocaCola_Sales_Dashboard.png)
+> <img width="1324" height="961" alt="Excel_CocaCola_Sales_Dashboard" src="https://github.com/user-attachments/assets/16bdc2ff-f056-4dea-81e4-f1227cfe83a6" />
 >
 > *The dashboard includes four KPI cards, a Region slicer, brand and retailer sales comparison tables, and a quarterly sales and operating profit margin chart.*
 
@@ -127,10 +127,4 @@ The dashboard was developed with reference to the following YouTube tutorial:
 
 [Watch the Excel dashboard tutorial](https://www.youtube.com/watch?v=GW6ZjK_9H6A)
 
----
 
-## 📁 Repository Files
-
-- `Excel_CocaCola_Sales_Dashboard.xlsx` – The interactive Excel workbook.
-- `Excel_CocaCola_Sales_Dashboard.png` – The dashboard preview image used in this README.
-- `README.md` – Project overview, workbook structure, dashboard features, and usage instructions.
